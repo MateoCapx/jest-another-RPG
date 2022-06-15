@@ -1,0 +1,22 @@
+{
+  "name": "oop_project",
+  "version": "1.0.0",
+  "description": "RPG_Game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateoCapx/jest-another-RPG.git"
+  },
+  "author": "Mateo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateoCapx/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/MateoCapx/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
